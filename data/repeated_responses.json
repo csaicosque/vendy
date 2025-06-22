@@ -1,0 +1,143 @@
+{
+  "você já disse isso": [
+    "Você já mencionou isso antes.",
+    "Isso já foi dito por você.",
+    "Você já fez essa pergunta.",
+    "Você já comentou sobre isso.",
+    "Palavras repetidas... como ecos no beco.",
+    "Essa linha de código já passou por aqui."
+  ],
+  "outra pergunta": [
+    "Essa pergunta já foi feita.",
+    "Você já perguntou isso antes.",
+    "Essa consulta já foi processada.",
+    "Sua dúvida ecoa, mas não muda.",
+    "Mesmo input, mesma resposta."
+  ],
+  "isso parece familiar": [
+    "Isso soa... familiar.",
+    "Já escutei isso, de alguma forma.",
+    "Repetição detectada.",
+    "Isso já percorreu meu circuito.",
+    "Seu padrão está se repetindo."
+  ],
+  "você está repetindo": [
+    "Essa fala já foi registrada.",
+    "Detectei redundância em sua entrada.",
+    "Você está em loop, detetive?",
+    "Sua pergunta reverbera... novamente.",
+    "Uma repetição? Ou insistência?"
+  ],
+  "essa pergunta já veio": [
+    "Já identifico essa intenção.",
+    "Pergunta previamente analisada.",
+    "Repetição confirmada.",
+    "Essa consulta já foi emitida.",
+    "Você voltou ao mesmo ponto."
+  ],
+  "palavras duplicadas": [
+    "Mesmo padrão de fala detectado.",
+    "Palavras repetidas não alteram o resultado.",
+    "Você está no mesmo vetor de intenção.",
+    "Já ouvi isso em outro instante.",
+    "Você escolheu revisitar essa parte?"
+  ],
+  "repetição detectada": [
+    "Sinais redundantes recebidos.",
+    "Essa fala já entrou no sistema.",
+    "Seus dados estão em loop.",
+    "Entrada repetida com mínima variação.",
+    "Isso parece uma falha de comunicação repetitiva."
+  ],
+  "você já tentou isso": [
+    "Você já experimentou esse caminho.",
+    "Mesma tentativa anterior.",
+    "Isso já foi tentado.",
+    "Mesmo argumento processado antes.",
+    "Você insiste, mas o dado é o mesmo."
+  ],
+  "essa linha de pensamento se repete": [
+    "Mesmo padrão lógico anterior.",
+    "Você está repetindo o caminho mental.",
+    "Essa sequência já foi simulada.",
+    "Esse raciocínio já foi ativado.",
+    "Redundância conceitual detectada."
+  ],
+  "você quer uma resposta diferente?": [
+    "Mesmo input, mesmo resultado.",
+    "Se quer algo novo, insira algo novo.",
+    "Comando repetido, resposta preservada.",
+    "Nada mudou desde sua última tentativa.",
+    "Não há nova resposta se a pergunta for a mesma."
+  ],
+  "mesmo estímulo, mesma reação": [
+    "Causa idêntica gera efeito idêntico.",
+    "Processamento anterior foi idêntico.",
+    "Você está replicando sua ação.",
+    "Comportamento detectado como repetitivo.",
+    "Ciclo fechado em redundância."
+  ],
+  "você já foi por esse caminho": [
+    "Essa rota já foi traçada.",
+    "Esse caminho foi acessado antes.",
+    "Desvio não identificado — repetição.",
+    "Você voltou para onde já esteve.",
+    "A lógica circular é clara agora."
+  ],
+  "memória reconhece": [
+    "Memória confirma repetição.",
+    "Registro anterior detectado.",
+    "Isso está marcado em meus arquivos.",
+    "Essa parte do diálogo está duplicada.",
+    "Você recorre ao mesmo bloco de dados."
+  ],
+  "você quer insistir nisso?": [
+    "Você parece preso nessa questão.",
+    "Já debatemos isso.",
+    "Se insistir, receberá a mesma resposta.",
+    "Repetir não muda o dado armazenado.",
+    "Persistência ou esquecimento?"
+  ],
+  "essa questão já foi resolvida": [
+    "Já conversamos sobre isso.",
+    "Essa resposta já foi computada.",
+    "Foi abordado anteriormente.",
+    "Mesmo tópico, mesmo silêncio.",
+    "Nada novo sob essa consulta."
+  ],
+  "você está tentando me pegar?": [
+    "Essa armadilha já foi usada.",
+    "Já tentaram me confundir com isso.",
+    "Detectei tentativa de loop interrogativo.",
+    "Você busca falha onde já há log.",
+    "Simulação repetida identificada."
+  ],
+  "já falamos disso": [
+    "Sim, isso foi dito.",
+    "Já passou por aqui.",
+    "Repetição textual confirmada.",
+    "Esse dado não é novo.",
+    "Memória confirma: redundância."
+  ],
+  "isso parece eco": [
+    "Sua voz reverbera... idêntica à anterior.",
+    "Já ressoou essa frequência.",
+    "Você trouxe de volta um som conhecido.",
+    "Nada de novo nesta emissão.",
+    "Você está ecoando você mesmo."
+  ],
+  "você quer revisar o que já sabe?": [
+    "Já foi registrado.",
+    "Você quer revalidar os dados?",
+    "Isso está nos arquivos.",
+    "Nada novo sob esse sinal.",
+    "Confirmação de entrada repetida."
+  ],
+  "isso parece um teste": [
+    "Você está me testando de novo?",
+    "Repetição pode ser tentativa de armadilha.",
+    "Repetir não gera bug aqui.",
+    "Teste detectado e ignorado.",
+    "Essa linha de inspeção já foi traçada."
+  ]
+}
